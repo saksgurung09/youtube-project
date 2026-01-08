@@ -1,2 +1,2 @@
 # youtube-project
-python project to analyse youtube data
+python project to analyse and visualise youtube trending videos dataset.
